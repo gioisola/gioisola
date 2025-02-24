@@ -7,7 +7,7 @@
 - <b>Catching and Logging attackers</b>
   - [Home Lab #2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b> 
 
-<h2>Certifications</h2>
+<h2>🏆Certifications</h2>
 
 - [CompTIA Security+](http://verify.CompTIA.org) Verification: 872BHH6QYFQEQ7C9
 - [CompTIA A+](http://verify.CompTIA.org) Verification: FW3CGQNY5M1EQJGY
@@ -20,8 +20,6 @@
 [linkedin]: https://www.linkedin.com/in/giovanni-isola-566243232 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
