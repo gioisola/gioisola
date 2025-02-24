@@ -5,7 +5,7 @@
 - <b>Scanning and Fixing Vulnerabilities</b>
   - [Home Lab #1 Honeypot and SIEM work](https://github.com/gioisola/Catching-and-Logging-Attackers)
 - <b>Catching and Logging attackers</b>
-  - [Home Lab #2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b> 
+  - [Home Lab #2 Vulnerability Management](https://github.com/gioisola/Vulnerability-Management) <b> 
 
 <h2>🏆Certifications</h2>
 
