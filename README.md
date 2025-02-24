@@ -3,7 +3,7 @@
 <h2>👨‍💻 General IT/Cybersecurity Projects:</h2>
 
 - <b>Scanning and Fixing Vulnerabilities</b>
-  - [Home Lab #1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab #1 Honeypot and SIEM work](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Catching and Logging attackers</b>
   - [Home Lab #2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b> 
 
