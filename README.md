@@ -6,6 +6,8 @@
   - [Home Lab #1 Honeypot and SIEM work](https://github.com/gioisola/Catching-and-Logging-Attackers)
 - <b>Catching and Logging attackers</b>
   - [Home Lab #2 Vulnerability Management](https://github.com/gioisola/Vulnerability-Management)
+- <b>Basic Active Directory Setup | Adding users | + Troubleshooting</b>
+  - [Home Lab #3 Basic Active Directory](https://github.com/gioisola/Vulnerability-Management)
 
 <h2>⌨️ Other Projects:</h2>
 
