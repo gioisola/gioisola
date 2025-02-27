@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gio! <br/><br/>Self Taught and <i>always</i> learning</h1>
+<h1>Hi, I'm Gio! <br/><br/>Self taught and <i>always</i> learning</h1>
 
 <h2>👨‍💻 General IT/Cybersecurity Projects:</h2>
 
