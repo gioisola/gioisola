@@ -9,7 +9,7 @@
 - <b>Basic Active Directory Setup | Adding users | + Troubleshooting</b>
   - [Home Lab #3 Basic Active Directory](https://github.com/gioisola/Basic-Active-Directory-Use)
 - <b>Digging Deeper into Active Directory</b>
-  - [Home Lab #4 Basic Active Directory](https://github.com/gioisola/Basic-Active-Directory-Use)
+  - [Home Lab #4 More Active Directory Practice](https://github.com/gioisola/Digging-Deeper-Into-Active-Directory)
 
 <h2>⌨️ Other Projects:</h2>
 
