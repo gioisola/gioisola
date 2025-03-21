@@ -27,7 +27,8 @@
 - LinkedIn
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/giovanni-isola-566243232 
+[linkedin]: www.linkedin.com/in/giovanni-isola
+
 
 <h2>📫 How to reach me:</h2> 
 
