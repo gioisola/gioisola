@@ -18,6 +18,8 @@
 
 <h2>🏆Certifications</h2>
 
+- [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/GiovanniIsola-9918/DC0747035A6C5D68?sharingId=6CC9933718595050) Verification: DC0747035A6C5D68
+- [CompTIA Network+](http://verify.CompTIA.org) Verification: ZHQHZ8YYRMV11RW3
 - [CompTIA Security+](http://verify.CompTIA.org) Verification: 872BHH6QYFQEQ7C9
 - [CompTIA A+](http://verify.CompTIA.org) Verification: FW3CGQNY5M1EQJGY
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/Isolagio/responsive-web-design)
