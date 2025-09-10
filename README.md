@@ -18,6 +18,7 @@
 
 <h2>🏆Certifications</h2>
 
+- [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/GiovanniIsola-9918/9EEDDD89287B5EC?sharingId=6CC9933718595050) Verification: 9EEDDD89287B5EC
 - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/GiovanniIsola-9918/DC0747035A6C5D68?sharingId=6CC9933718595050) Verification: DC0747035A6C5D68
 - [CompTIA Network+](http://verify.CompTIA.org) Verification: ZHQHZ8YYRMV11RW3
 - [CompTIA Security+](http://verify.CompTIA.org) Verification: 872BHH6QYFQEQ7C9
